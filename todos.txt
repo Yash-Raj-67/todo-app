@@ -1,0 +1,3 @@
+brew coffee
+study python
+upload files over git hub
